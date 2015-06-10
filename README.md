@@ -1,1 +1,1 @@
-# raspberrypi_studusession
+# raspberrypi_studysession
